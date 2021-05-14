@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1620949786 source:c:\users\leandro\desktop\tareas\tareas lean\primerparciallabo\contribuyente.c
+	<stdio.h>
+	<stdlib.h>
+	"contribuyente.h"
+
+1620949247 c:\users\leandro\desktop\tareas\tareas lean\primerparciallabo\contribuyente.h
+
+1620948813 source:c:\users\leandro\desktop\tareas\tareas lean\primerparciallabo\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"UTN.h"
+
+1620943383 c:\users\leandro\desktop\tareas\tareas lean\primerparciallabo\utn.h
+
+1620949463 source:c:\users\leandro\desktop\tareas\tareas lean\primerparciallabo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"contribuyente.h"
+	"recaudacion.h"
+	"UTN.h"
+
+1620949804 source:c:\users\leandro\desktop\tareas\tareas lean\primerparciallabo\recaudacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"recaudacion.h"
+	"UTN.h"
+
+1620949444 c:\users\leandro\desktop\tareas\tareas lean\primerparciallabo\recaudacion.h
+	"contribuyente.h"
+
